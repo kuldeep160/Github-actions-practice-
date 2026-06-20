@@ -1,5 +1,5 @@
 # workflows 
-names: hello
+name: hello
 
 on: 
   workflow_dispatch: 
