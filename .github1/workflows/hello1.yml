@@ -1,5 +1,5 @@
 # Workflow [No indentation required for naming the workflow]
-name: hello1
+name: hello
 
 # On tells when the workflow should run (Give indentation by tab)
 on:
